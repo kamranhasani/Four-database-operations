@@ -5,4 +5,3 @@ php 7.0 -
 js -
 html -
 css .
-# Developer Email : kamranhasaniinfo@gmail.com.
